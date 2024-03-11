@@ -2,7 +2,7 @@
 Hay que usar azúcar sintáctico para el bucle'''
 
 class Array:
-    def creaArray():
+    def creaArray(self):
         a = int(input("Introduzca dígitos (-1 para salir): "))
         a2 = []
         while (a != -1):
